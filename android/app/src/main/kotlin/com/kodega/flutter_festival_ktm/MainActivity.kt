@@ -1,4 +1,4 @@
-package com.kodega.flutter_festival_ktm
+package com.flutter_festival_ktm
 
 import io.flutter.embedding.android.FlutterActivity
 

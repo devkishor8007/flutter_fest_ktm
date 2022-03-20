@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.kodega.flutter_festival_ktm">
+    package="com.flutter_festival_ktm">
    <application
         android:label="flutter_festival_ktm"
         android:name="${applicationName}"

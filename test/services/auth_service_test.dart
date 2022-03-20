@@ -129,6 +129,7 @@ Future<void> main() async {
     });
 
     group('signUpWithEmailAndPassword', () {});
-    //TODO::Perform test for this stuck due to firebase code failed to initialize
+    // ignore: todo
+    // TODO::Perform test for this stuck due to firebase code failed to initialize
   });
 }

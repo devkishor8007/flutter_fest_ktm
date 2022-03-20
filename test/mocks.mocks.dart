@@ -2,6 +2,8 @@
 // in flutter_festival_ktm/test/mocks.dart.
 // Do not manually edit this file.
 
+// ignore_for_file: subtype_of_sealed_class
+
 import 'dart:async' as _i9;
 import 'dart:typed_data' as _i10;
 
